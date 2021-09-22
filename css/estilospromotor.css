@@ -17,18 +17,26 @@
     line-height: 1.8;
 }
 
-.titulos {
+.midfrase {
 
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     color: #2c374f;
 }
 
 .letrabotones {
 
-    font-size: 15px;
+    font-size: 17px;
     color: #ffff;
 }
+
+
+.titulosmid {
+
+  font-size: 26px;
+  font-weight: 600;
+}
+
 
 .fondobotones {
 
@@ -101,4 +109,19 @@
 
   .imgfooter {
       width: 50%;
+  }
+
+  .bordetext {
+    
+   border-bottom: 1px solid #2c374f;
+
+
+  }
+
+
+  .mirrbtwn {
+
+
+      transform: rotateY(180deg);
+    
   }
