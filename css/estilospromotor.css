@@ -93,6 +93,12 @@
     background: linear-gradient(0deg, #e96058 77%, #ffffff 100%);
   }
 
+  .listafoo {
+
+    display: flex;
+  justify-content: center;
+  }
+
   .fnblanco {
 
     background-color: #ffffff;
