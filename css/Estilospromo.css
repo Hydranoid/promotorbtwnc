@@ -123,6 +123,18 @@
   }
   }
   @media only screen and (max-width: 540px){
+    .titulogrande{
+      font-size: 40px;
+      font-weight: 900;
+  
+    }
+    .titulo{
+      font-size: 35px;
+      font-weight: 900;
+  
+
+    }
+
     .cuadro{
       background: white; 
        width:200px;
